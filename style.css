@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #1f0c08;
+}
+#image0{
+    background-image: url(images/image0.jpg);
+}
+#image1{
+    background-image: url(images/image1.jpg);
+}
+#image2{
+    background-image: url(images/image2.jpg);
+}
+#image3{
+    background-image: url(images/image3.jpg);
+}
+#image4{
+    background-image: url(images/image4.jpg);
+}
+#image5{
+    background-image: url(images/image5.jpg);
+}
+#image6{
+    background-image: url(images/image6.jpg);
+}
+#image7{
+    background-image: url(images/image7.jpg);
+}
+#image8{
+    background-image: url(images/image8.jpg);
+}
+#image9{
+    background-image: url(images/image9.jpg);
+}
+#image10{
+    background-image: url(images/image10.jpg);
+}
+#image11{
+    background-image: url(images/image11.jpg);
+}
+.hero .elastic-slider{
+    cursor: grab;
+    width: 900px;
+    height: 600px;
+}
+.hero .elastic-slider div{
+    background-size: cover;
+    background-position: center;
+}
